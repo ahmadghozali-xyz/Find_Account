@@ -70,7 +70,7 @@ def banner():
 
     runntxt(GG+"     ..........     Keep On Fighting")
 
-    runntxt(Y+"    ............       
+
 
     runntxt(GG+"                      Till THE END ")
 
