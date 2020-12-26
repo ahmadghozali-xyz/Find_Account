@@ -78,9 +78,9 @@ def banner():
 
     runntxt(GG+"     ..........     Keep On Fighting")
 
-    runntxt(GG+"    ............
+    runntxt(GG+"    ............     Till The END")
 
-    runntxt(GG+"                      Till THE END ")
+
 
     time.sleep(1.5)
 
